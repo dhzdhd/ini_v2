@@ -10,7 +10,7 @@ build/
 pubspec.lock
 .make/
 .pub-cache/
-.dart-tool/
+.dart_tool/
 
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
