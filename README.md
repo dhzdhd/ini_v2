@@ -7,6 +7,12 @@ https://en.wikipedia.org/wiki/INI_file
 
 The ini file reader will return data organized by section and option. The default section will be the blank string.
 
+Credit
+--------
+
+This is a improved version of the original source code.
+All credits to https://gitlab.com/matthewfranglen/dart-ini
+
 Examples
 --------
 
